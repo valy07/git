@@ -1,2 +1,4 @@
 F1 sau Fn + F1  - open terminal 
-clear           - empty terminal 
+clear           - empty terminal
+pwd             - print working directory
+cd              - change directory
