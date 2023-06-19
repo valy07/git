@@ -2,5 +2,6 @@ F1 sau Fn + F1  - open terminal
 clear           - empty terminal
 pwd             - print working directory
 cd              - change directory
+cd ..           - change directory one step backward
 ls              - list 
 ls -a           - list included hidden files / directories
