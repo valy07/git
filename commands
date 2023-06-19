@@ -13,4 +13,9 @@ alias my_folder="cd ~/test1/test2/test3"
 explore .       - open current directory in explorer mode
 Ctrl + C        - discharged current line from terminal
 touch           - create a files
-      
+vim name_file   - open name_file in vim editor
+i               - INSERT mode
+Esc             - COMMAND mode
+:wq             - close vim editor and save the file
+:q              - close vim editor
+:q!             - vim editor without save the file
