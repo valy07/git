@@ -8,3 +8,4 @@ ls -a           - list included hidden files / directories
 .               - current directory
 ~               - home directory
 /               - root directory
+mkdir           - make directory
