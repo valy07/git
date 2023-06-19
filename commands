@@ -23,3 +23,4 @@ cat name_file   - open the content of the file
 cp name_file_source name_path_destination   - copy command
 rm              - remove file
 rm -r           - remove directory
+rm -rf          - remove force directory
