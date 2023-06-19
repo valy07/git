@@ -19,3 +19,4 @@ Esc             - COMMAND mode
 :wq             - close vim editor and save the file
 :q              - close vim editor
 :q!             - vim editor without save the file
+cat name_file   - open the content of the file
