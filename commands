@@ -20,3 +20,6 @@ Esc             - COMMAND mode
 :q              - close vim editor
 :q!             - vim editor without save the file
 cat name_file   - open the content of the file
+cp name_file_source name_path_destination   - copy command
+rm              - remove file
+rm -r           - remove directory
