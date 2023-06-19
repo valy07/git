@@ -5,3 +5,6 @@ cd              - change directory
 cd ..           - change directory one step backward
 ls              - list 
 ls -a           - list included hidden files / directories
+.               - current directory
+~               - home directory
+/               - root directory
