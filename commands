@@ -9,3 +9,5 @@ ls -a           - list included hidden files / directories
 ~               - home directory
 /               - root directory
 mkdir           - make directory
+alias my_folder="cd ~/test1/test2/test3"
+explore .       - open current directory in explorer mode      
