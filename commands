@@ -10,4 +10,5 @@ ls -a           - list included hidden files / directories
 /               - root directory
 mkdir           - make directory
 alias my_folder="cd ~/test1/test2/test3"
-explore .       - open current directory in explorer mode      
+explore .       - open current directory in explorer mode
+Ctrl + C        - discharged current line from terminal      
