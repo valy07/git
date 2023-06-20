@@ -7,3 +7,5 @@ git switch branch_name      - switch betweeen branchies
 git push --set-upstream origin new_branch_name  - set remotely new branch
 git remote add origin url (https or ssh)    - link local repository to server repository
 git push                    - send all changes to the server
+git config --global user.name user_name     - set an author name
+git config --global user.email user_mail    - set author's email address
