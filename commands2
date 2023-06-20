@@ -11,3 +11,4 @@ git config --global user.name user_name     - set an author name
 git config --global user.email user_mail    - set author's email address
 git log --summary           - deliver commit history
 git merge branchname        - merge two branches
+git revert commit_code      - undoing a commit
