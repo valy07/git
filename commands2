@@ -9,3 +9,4 @@ git remote add origin url (https or ssh)    - link local repository to server re
 git push                    - send all changes to the server
 git config --global user.name user_name     - set an author name
 git config --global user.email user_mail    - set author's email address
+git log --summary           - deliver commit history
