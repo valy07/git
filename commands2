@@ -12,6 +12,8 @@ git config --global user.email user_mail    - set author's email address
 git log --summary           - deliver commit history
 git merge branchname        - merge two branches
 git reset file_name                 - undoing tracking file
+git reset --hard                    - undoing tracking & delete the file (if the file wasn't committed before)
+git reset --hard                    - undoing all saved & uncommitted changes (if the file was committed before)
 git restore --staged file_name      - undoing tracking file
 git revert commit_code              - undoing a commit
 git commit --amend -m "New message"     - update commit message
