@@ -4,6 +4,9 @@ git commit -m "Message"     - stamp additional info (snapshot)
 git status                  - offer info about tracked / untracked files
 git branch name_branch      - create new branch
 git switch branch_name      - switch betweeen branchies
+git checkout -b name_branch - create & move to another branch
+git switch -c name_branch   - create & switch betweeen branchies
+git branch                  - list all the branchies
 git push --set-upstream origin new_branch_name  - set remotely new branch
 git remote add origin url (https or ssh)    - link local repository to server repository
 git push                    - send all changes to the server
@@ -12,3 +15,9 @@ git config --global user.email user_mail    - set author's email address
 git log --summary           - deliver commit history
 git merge branchname        - merge two branches
 git revert commit_code      - undoing a commit
+git reset file_name                 - undoing tracking file
+git reset --hard                    - undoing tracking & delete the file (if the file wasn't committed before)
+git reset --hard                    - undoing all saved & uncommitted changes (if the file was committed before)
+git restore --staged file_name      - undoing tracking file
+git revert commit_code              - undoing a commit
+git commit --amend -m "New message"     - update commit message

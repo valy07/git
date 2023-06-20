@@ -24,4 +24,6 @@ cp name_file_source name_path_destination   - copy command
 rm              - remove file
 rm -r           - remove directory
 rm -rf          - remove force directory
-name_command --help         - give you some help for particulary command 
+name_command --help         - give you some help for particulary command
+name of the file            - use quotes to ignore spaces between words; eg. "name of the file" 
+code .      - open the visual studio code project from current directory
