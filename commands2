@@ -5,6 +5,7 @@ git status                  - offer info about tracked / untracked files
 git branch name_branch      - create new branch
 git checkout -b name_branch - create & move to another branch
 git switch -c name_branch   - create & switch betweeen branchies
+git branch                  - list all the branchies
 git push --set-upstream origin new_branch_name  - set remotely new branch
 git remote add origin url (https or ssh)    - link local repository to server repository
 git push                    - send all changes to the server
