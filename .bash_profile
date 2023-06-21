@@ -1,2 +1,2 @@
-alias my_folder="cd ./test1/test2/test3"
+alias my_folder="cd /d/Records/WebDevelopment/Git"
 
