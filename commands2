@@ -19,3 +19,4 @@ git reset --hard                    - undoing all saved & uncommitted changes (i
 git restore --staged file_name      - undoing tracking file
 git revert commit_code              - undoing a commit
 git commit --amend -m "New message"     - update commit message
+git remote -v               - display all the active origin
