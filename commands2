@@ -23,3 +23,4 @@ git revert commit_code              - undoing a commit
 git commit --amend -m "New message"     - update commit message
 ssh-keygen                          - generate public/private rsa key pair
 git remote remove origin            - remove current origin in order to add another one
+git diff name_of_other_branch       - before git merge it is recommanded to visual all the difference beetwen both version
